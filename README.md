@@ -29,3 +29,4 @@ To set up the **Employee Task Management System** locally:
    ```bash
    git clone https://github.com/ViperDecode/Task-Tracker.git
 
+![Dashboard](images/dashboard.png)
